@@ -5,8 +5,14 @@
         {
             "category": "musicart",
             "files": [
-                "Voice_musicart_01 [1]",
-                "Voice_musicart_01 [2]"
+                {
+                    "name": "Voice_musicart_01 [1]",
+                    "title": "musicart_01_battle_001"
+                },
+                {
+                    "name": "Voice_musicart_01 [2]",
+                    "title": "musicart_01_battle_002"
+                }
             ]
         }
     ]
