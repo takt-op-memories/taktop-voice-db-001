@@ -1,0 +1,13 @@
+{
+    "characterId": "001",
+    "characterName": "運命",
+    "voices": [
+        {
+            "category": "musicart",
+            "files": [
+                "Voice_musicart_01 [1]",
+                "Voice_musicart_01 [2]"
+            ]
+        }
+    ]
+}
